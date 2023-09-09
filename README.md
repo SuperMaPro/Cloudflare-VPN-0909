@@ -5,3 +5,5 @@
 10行修改固定IP            const proxyIPs = ['140.238.10.178', '193.122.103.122'];
 
 129行	修改伪装网站	      const hostnames = ['www.bing.com'];
+
+优选IP下载                zip.baipiao.eu.org
